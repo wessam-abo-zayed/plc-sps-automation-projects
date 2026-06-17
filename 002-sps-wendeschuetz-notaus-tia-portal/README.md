@@ -64,7 +64,7 @@ Im OB1 werden zwei Funktionen aufgerufen:
 
 ### **Wessam Abo Zayed**
 
-**Data Analyst | Machine Learning | SPS-/PLC-Programmierung**
+**Data Analyst | SPS-/PLC-Programmierung**
 
 </div>
 
