@@ -55,7 +55,7 @@ Die Simulation befindet sich im Ordner `video/`.
 
 ### **Wessam Abo Zayed**
 
-**Data Analyst | Machine Learning | SPS-/PLC-Programmierung**
+**Data Analyst | SPS-/PLC-Programmierung**
 
 </div>
 
