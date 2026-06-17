@@ -46,3 +46,30 @@ Ziel ist es, einen Motor sicher in zwei Drehrichtungen zu steuern. Dabei werden 
 ## Simulation
 
 Die Simulation befindet sich im Ordner `video/`.
+
+
+---
+## Autor
+
+<div align="center">
+
+### **Wessam Abo Zayed**
+
+**Data Analyst | Machine Learning | SPS-/PLC-Programmierung**
+
+</div>
+
+---
+
+**Data Analyst** mit Erfahrung in **Datenanalyse**, **Machine Learning** und **industrieller Automatisierung**.
+
+Ich kombiniere analytische Fähigkeiten aus der Datenverarbeitung mit praktischen Kenntnissen in **SPS-/PLC-Programmierung**, insbesondere mit **Siemens TIA Portal**.
+
+---
+
+## Kontakt
+
+| Kontakt      | Link                                                                            |
+| ------------ | ------------------------------------------------------------------------------- |
+| **E-Mail**   | [abozayed.wessam@gmail.com](mailto:abozayed.wessam@gmail.com)                   |
+| **LinkedIn** | [linkedin.com/in/wessam-abozayed](https://www.linkedin.com/in/wessam-abozayed/) |
