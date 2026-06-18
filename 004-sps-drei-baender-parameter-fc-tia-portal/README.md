@@ -83,20 +83,19 @@ Nach dem Reset des Fehlers darf die Anlage im letzten Zustand weiterlaufen.
 * Testen der Steuerung mit Simulation
 
 ---
-
 ## Autor
 
 <div align="center">
 
 ### **Wessam Abo Zayed**
 
-**Data Analyst | SPS-/PLC-Programmierung**
+**Automatisierungstechnik | SPS-/PLC-Programmierung | Data Analyst**
 
 </div>
 
 ---
 
-**Data Analyst** mit Erfahrung in **Datenanalyse**, **Machine Learning** und **industrieller Automatisierung**.
+Erfahrung in **Datenanalyse**, **Machine Learning** und **industrieller Automatisierung**.
 
 Ich kombiniere analytische Fähigkeiten aus der Datenverarbeitung mit praktischen Kenntnissen in **SPS-/PLC-Programmierung**, insbesondere mit **Siemens TIA Portal**.
 
