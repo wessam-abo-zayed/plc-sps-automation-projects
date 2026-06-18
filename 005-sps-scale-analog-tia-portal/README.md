@@ -82,25 +82,23 @@ In der Simulation und im realen SPS-Test werden folgende Punkte geprüft:
 * Vergleich zwischen realen SPS-Werten und Programmwerten
 
 ---
-
 ## Autor
 
 <div align="center">
 
 ### **Wessam Abo Zayed**
 
-**Data Analyst | SPS-/PLC-Programmierung**
+**Automatisierungstechnik | SPS-/PLC-Programmierung | Data Analyst**
 
 </div>
 
 ---
 
-**Data Analyst** mit Erfahrung in **Datenanalyse**, **Machine Learning** und **industrieller Automatisierung**.
+Erfahrung in **Datenanalyse**, **Machine Learning** und **industrieller Automatisierung**.
 
 Ich kombiniere analytische Fähigkeiten aus der Datenverarbeitung mit praktischen Kenntnissen in **SPS-/PLC-Programmierung**, insbesondere mit **Siemens TIA Portal**.
 
 ---
-
 
 ## Kontakt
 
@@ -108,5 +106,3 @@ Ich kombiniere analytische Fähigkeiten aus der Datenverarbeitung mit praktische
 | ------------ | ------------------------------------------------------------------------------- |
 | **E-Mail**   | [abozayed.wessam@gmail.com](mailto:abozayed.wessam@gmail.com)                   |
 | **LinkedIn** | [linkedin.com/in/wessam-abozayed](https://www.linkedin.com/in/wessam-abozayed/) |
-
-
