@@ -12,6 +12,21 @@ Dabei werden reale Ein- und Ausgangssignale verarbeitet und der komplette Prozes
 
 ---
 
+## ⚙️ Funktionsbeschreibung
+
+Der Prozess läuft wie folgt ab:
+
+1. Start über Taster **S1**
+2. Zylinder 1 fährt aus → Werkstück wird gespannt und vorgebogen
+3. Wenn Endlage **1B2** erreicht ist:
+   - Zylinder 2 fährt aus
+   - Biegevorgang wird durchgeführt
+4. Nach Erreichen der Endlage fährt Zylinder 2 wieder ein
+5. Danach fährt Zylinder 1 wieder ein
+6. Der Zyklus ist abgeschlossen
+
+---
+
 ## 📁 Projektstruktur
 
 
